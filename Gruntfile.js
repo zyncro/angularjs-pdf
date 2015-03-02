@@ -51,7 +51,7 @@ module.exports = function(grunt) {
             dest: 'dist/'
           },
           {
-            cwd: 'bower_components/pdfjs-dist/build',
+            cwd: 'bower_components/zyncro-angularjs-pdfjs-dist/build',
             src: [ 'pdf.js', 'pdf.worker.js' ],
             dest: 'example/js/lib',
             flatten: true,
