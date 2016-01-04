@@ -7,7 +7,7 @@
   "homepage": "http://github.com/sayanee/angularjs-pdf",
   "dependencies": {
      "angular": "1.2.8",
-     "zyncro-angularjs-pdfjs-dist": "1.0.1172"
+     "zyncro-angularjs-pdfjs-dist": "1.0.1174"
   },
   "ignore": [
     "**/.*",
